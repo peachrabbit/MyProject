@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+C:\Users\Yue Chiau\Desktop\暫存文件\hw upload\110360220_鍾佳殷\p17\source\main.c(3,1): warning C4005: 'max': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : 請參閱 'max' 之前的定義
+  HW.vcxproj -> C:\Users\Yue Chiau\Desktop\暫存文件\hw upload\110360220_鍾佳殷\p17\HW\HW\..\..\temp\debug\HW.exe

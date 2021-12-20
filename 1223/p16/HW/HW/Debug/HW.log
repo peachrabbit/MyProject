@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Yue Chiau\Desktop\暫存文件\hw upload\110360220_鍾佳殷\p16\source\main.c(5,1): warning C4005: 'max': 巨集重複定義
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : 請參閱 'max' 之前的定義
+  HW.vcxproj -> C:\Users\Yue Chiau\Desktop\暫存文件\hw upload\110360220_鍾佳殷\p16\HW\Debug\HW.exe
